@@ -1,3 +1,4 @@
+// 1) WAP to implement arrays of pointers and pointers to arrays.
 #include <stdio.h>
 
 int main() {
@@ -25,3 +26,4 @@ int main() {
 
     return 0;
 }
+
